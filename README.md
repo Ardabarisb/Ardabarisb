@@ -57,12 +57,18 @@ I'm a software development student focused on full stack web development, with a
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ardabarisb&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardabarisb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9" />
+<a href="https://github.com/Ardabarisb">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ardabarisb&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=C9D1D9" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/Ardabarisb">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardabarisb&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=C9D1D9" alt="Top Languages" />
+</a>
 
-<br>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ardabarisb&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FFB347&currStreakLabel=FF6B35" />
+<a href="https://github.com/Ardabarisb">
+  <img src="https://streak-stats.demolab.com?user=Ardabarisb&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FFB347&currStreakLabel=FF6B35" alt="GitHub Streak" />
+</a>
 
 </div>
 
